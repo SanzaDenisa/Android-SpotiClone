@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425763902462",
+    "project_id": "spotimusic-87fb6",
+    "storage_bucket": "spotimusic-87fb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425763902462:android:591affd5b021f07ca0a6af",
+        "android_client_info": {
+          "package_name": "com.example.spotimusic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiatyE3IsiE-uL4HPybh6SE8uiSwmnrjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
